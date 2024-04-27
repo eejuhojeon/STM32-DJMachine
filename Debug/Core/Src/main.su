@@ -1,0 +1,16 @@
+../Core/Src/main.c:202:5:main	192	static
+../Core/Src/main.c:598:6:SystemClock_Config	96	static
+../Core/Src/main.c:646:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:693:13:MX_DAC_Init	16	static
+../Core/Src/main.c:733:13:MX_SDIO_SD_Init	4	static
+../Core/Src/main.c:761:13:MX_TIM2_Init	32	static
+../Core/Src/main.c:806:13:MX_TIM3_Init	40	static
+../Core/Src/main.c:852:13:MX_TIM6_Init	16	static
+../Core/Src/main.c:888:13:MX_DMA_Init	16	static
+../Core/Src/main.c:906:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:992:13:MX_FSMC_Init	40	static
+../Core/Src/main.c:1051:6:SetSampleRate	24	static
+../Core/Src/main.c:1063:6:ThrowSystemError	40	static
+../Core/Src/main.c:1080:6:HAL_DAC_ConvCpltCallbackCh1	16	static
+../Core/Src/main.c:1087:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/main.c:1362:6:Error_Handler	4	static,ignoring_inline_asm

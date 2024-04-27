@@ -1,0 +1,10 @@
+../Core/Src/gui.c:6:6:GUI_Init	8	static
+../Core/Src/gui.c:19:6:GUI_SetPlaytime	48	static
+../Core/Src/gui.c:62:6:GUI_SetFileName	16	static
+../Core/Src/gui.c:70:6:GUI_SetPlayStatus	24	static
+../Core/Src/gui.c:87:6:GUI_SetVolumeLevel	48	static
+../Core/Src/gui.c:111:6:GUI_SetFilterStatus	16	static
+../Core/Src/gui.c:156:6:GUI_SetFilterFreq	40	static
+../Core/Src/gui.c:195:6:GUI_SetTempo	64	static
+../Core/Src/gui.c:229:6:GUI_SetPitch	64	static
+../Core/Src/gui.c:263:6:GUI_SetTitle	8	static

@@ -1,0 +1,5 @@
+../Middlewares/Third_Party/FatFs/src/drivers/sd_diskio.c:89:9:SD_initialize	16	static
+../Middlewares/Third_Party/FatFs/src/drivers/sd_diskio.c:107:9:SD_status	16	static
+../Middlewares/Third_Party/FatFs/src/drivers/sd_diskio.c:127:9:SD_read	32	static
+../Middlewares/Third_Party/FatFs/src/drivers/sd_diskio.c:158:9:SD_write	32	static
+../Middlewares/Third_Party/FatFs/src/drivers/sd_diskio.c:189:9:SD_ioctl	56	static
